@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://x.com/MoonGuyyy_"><img src="https://img.shields.io/badge/X-@MoonGuyyy__-1e3a8a?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/MoonGuyyy_"><img src="https://img.shields.io/badge/@MoonGuyyy__-0b1026?style=for-the-badge&logo=x&logoColor=8fa8ff" alt="X" /></a>
 </p>
 
 </div>
