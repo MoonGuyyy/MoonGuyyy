@@ -16,13 +16,13 @@
 
 ---
 
-### 🌙 About
+### About
 
 I like phones, and I like making them feel better to use.
 Most of my time goes into **Android**, **Samsung One UI** and **mobile UX design**, and I post about it along the way.
 I'm on a Galaxy S24, refreshing the software update page like everyone else.
 
-### 🌦️ What I'm building
+### What I'm building
 
 **A weather app in the spirit of One UI.**
 
@@ -32,11 +32,11 @@ I'm on a Galaxy S24, refreshing the software update page like everyone else.
 
 It's coming to this profile soon.
 
-### 📡 Following
+### Following
 
 `One UI 9` · `Galaxy S24` · `Android news` · `mobile UI concepts` · `new phone launches`
 
-### 🛰️ Find me
+### Find me
 
 Short takes, threads and progress shots on [X](https://x.com/MoonGuyyy_).
 
